@@ -100,7 +100,7 @@ return packer.startup(function(use)
       "anuvyklack/animation.nvim"
    },
    config = function()
-      vim.o.winwidth = 16
+      vim.o.winwidth = 20
       vim.o.winminwidth = 5
       vim.o.equalalways = false
       require('windows').setup()
