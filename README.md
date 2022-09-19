@@ -8,6 +8,8 @@
 
 https://user-images.githubusercontent.com/13056013/190786962-01047891-38b1-4e87-bd9b-e8eca9acc8b8.mp4
 
+**Dracula theme**
+![Dracuala theme](./assets/dracula-theme.png)
 
 ## Try out this config
 
