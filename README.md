@@ -1,7 +1,9 @@
 # Neovim from scratch - modified from chris@machine's version
 
 **Update** This repo should work fine with Neovim 0.8, also all packages are pinned so it should remain stable.
+**Update** I added windows.nvim plugin, which automatically expands width of the current window; maximizes and restores the current window; and has all this with nice animations as well!
 
+https://user-images.githubusercontent.com/13056013/190786962-01047891-38b1-4e87-bd9b-e8eca9acc8b8.mp4
 
 
 ## Try out this config
